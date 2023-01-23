@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/dataset/Brain-Tumor-Classification-DataSet-master/input"
+		},
+		{
+			"path": "D:/dataset/Brain-Tumor-Classification-DataSet-master/models"
+		}
+	],
+	"settings": {}
+}
